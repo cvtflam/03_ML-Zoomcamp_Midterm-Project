@@ -1,0 +1,12 @@
+# Dataset and model artifacts
+data/
+model.bin
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
